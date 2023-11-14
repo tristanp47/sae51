@@ -5,7 +5,6 @@ docker run --rm  -d \
   --name sae51-sql \
   --env MYSQL\_ROOT\_PASSWORD=foo \
   --mount type=bind,source=$(pwd)/csv,target=/srv/csv \
-  --network sae51 \
   mysql:8.0 --local-infile=1 --secure-file-priv=''
 if [ $? != 0 ]; then
         echo "echec de la commande docker run"

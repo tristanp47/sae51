@@ -4,12 +4,6 @@ if [ $? != 0 ]; then
         exit 2
 fi
 
-./create_network.sh
-if [ $? != 0 ]; then
-        echo "echec du script create_network"
-        exit 2
-fi
-
 ./run_mysql.sh
 if [ $? != 0 ]; then
 	echo "echec du script run_mysql"
@@ -25,3 +19,8 @@ if [ $? != 0 ]; then
 fi
 
 ./fillCSV.sh
+if [ $? != 0 ]; then
+        echo "echec du script filleCSV"
+        exit 2
+fi
+
