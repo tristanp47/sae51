@@ -12,5 +12,5 @@ echo "$FichierChiffreMax"
 
 echo "CREATE TABLE gestion_parc_informatique;" > temp && echo "USE gestion_parc_informatique;" >> temp && cat "$FichierChiffreMax" >> temp && mv temp "$FichierChiffreMax"
 
-cp -f "$FichierChiffreMax" "/home/user/sae51/data1.sql"
+cp -f "$FichierChiffreMax" "/home/user/sae51/data.sql"
 
