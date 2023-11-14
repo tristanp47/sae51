@@ -1,0 +1,628 @@
+2023-11-08T09:55:53.678Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T09:56:37.653Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T09:59:19.380Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T09:59:23.270Z
+Error: ENOENT: no such file or directory, stat '/srv/S12'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T10:07:00.922Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T10:09:04.014Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-08T10:10:23.346Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:42:46.983Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T13:42:48.620Z
+Error: ENOENT: no such file or directory, stat '/srv/S2'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T14:08:01.498Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T14:08:03.152Z
+Error: ENOENT: no such file or directory, stat '/srv/S2'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T14:20:34.478Z
+Error: ENOENT: no such file or directory, stat '/srv/S1'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T14:20:36.145Z
+Error: ENOENT: no such file or directory, stat '/srv/S2'
+    at Object.statSync (fs.js:1016:3)
+    at validateFilePlugin (/usr/local/lib/node_modules/@dbml/cli/lib/cli/validatePlugins/validatePlugins.js:10:28)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:31
+    at Array.every (<anonymous>)
+    at validateInputFilePaths (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:21:16)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:21:39)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+
+2023-11-09T14:22:48.951Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:22:50.597Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:24:46.790Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:24:48.439Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:30:26.589Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:30:28.305Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:32:22.333Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:32:24.015Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:35:05.283Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:35:06.957Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":77,"line":3,"column":16},"end":{"offset":78,"line":3,"column":17}}
+
+2023-11-09T14:36:37.287Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:36:38.941Z
+SyntaxError: You have a syntax error at "S2.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":77,"line":3,"column":16},"end":{"offset":78,"line":3,"column":17}}
+
+2023-11-09T14:39:37.018Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:39:38.699Z
+SyntaxError: You have a syntax error at "S2.dbml" line 18 column 1. Field "TechnicienID" existed in table "Maintenances"
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+Error: Field "TechnicienID" existed in table "Maintenances"
+    at Field.error (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/element.js:55:13)
+    at Table.checkField (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:92:15)
+    at Table.pushField (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:83:12)
+    at /usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:75:16
+    at Array.forEach (<anonymous>)
+    at Table.processFields (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:74:17)
+    at new Table (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:58:11)
+    at /usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/database.js:118:30
+    at Array.forEach (<anonymous>)
+    at Database.processSchemaElements (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/database.js:107:16)
+{"start":{"offset":327,"line":18,"column":1},"end":{"offset":370,"line":19,"column":1}}
+
+2023-11-09T14:41:25.697Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
+2023-11-09T14:41:27.362Z
+SyntaxError: You have a syntax error at "S2.dbml" line 28 column 1. Field "MarquesID" existed in table "Machines"
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+Error: Field "MarquesID" existed in table "Machines"
+    at Field.error (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/element.js:55:13)
+    at Table.checkField (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:92:15)
+    at Table.pushField (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:83:12)
+    at /usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:75:16
+    at Array.forEach (<anonymous>)
+    at Table.processFields (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:74:17)
+    at new Table (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/table.js:58:11)
+    at /usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/database.js:118:30
+    at Array.forEach (<anonymous>)
+    at Database.processSchemaElements (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/model_structure/database.js:107:16)
+{"start":{"offset":583,"line":28,"column":1},"end":{"offset":619,"line":29,"column":1}}
+
+2023-11-09T14:43:12.602Z
+SyntaxError: You have a syntax error at "S1.dbml" line 3 column 16. Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:45:13
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+    at Object.dbml2sql (/usr/local/lib/node_modules/@dbml/cli/lib/cli/index.js:19:23)
+    at Object.<anonymous> (/usr/local/lib/node_modules/@dbml/cli/bin/dbml2sql.js:4:19)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+
+ROOT_ERROR:
+SyntaxError: Expected "default:", "increment", "not null", "note:", "null", "pk", "primary key", "ref:", "unique", comment, or whitespace but "2" found.
+    at peg$buildStructuredError (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:1091:12)
+    at Object.peg$parse [as parse] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/dbmlParser.js:6866:11)
+    at Function.parseDBMLToJSON (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:49:37)
+    at Function.parse (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/parse/Parser.js:76:32)
+    at Object._export [as export] (/usr/local/lib/node_modules/@dbml/cli/node_modules/@dbml/core/lib/export/index.js:11:37)
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:69
+    at /usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:42:23
+    at Array.forEach (<anonymous>)
+    at generate (/usr/local/lib/node_modules/@dbml/cli/lib/cli/utils.js:39:14)
+    at exportHandler (/usr/local/lib/node_modules/@dbml/cli/lib/cli/export.js:25:27)
+{"start":{"offset":69,"line":3,"column":16},"end":{"offset":70,"line":3,"column":17}}
+
