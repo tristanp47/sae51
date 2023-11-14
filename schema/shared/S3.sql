@@ -1,4 +1,4 @@
-CREATE TABLE gestion_parc_informatique;
+CREATE DATABASE gestion_parc_informatique;
 USE gestion_parc_informatique;
 CREATE TABLE `Techniciens` (
   `ID` int UNIQUE PRIMARY KEY AUTO_INCREMENT,

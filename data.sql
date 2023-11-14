@@ -1,6 +1,5 @@
 CREATE DATABASE gestion_parc_informatique;
 USE gestion_parc_informatique;
-
 CREATE TABLE `Techniciens` (
   `ID` int UNIQUE PRIMARY KEY AUTO_INCREMENT,
   `Nom` varchar(255)
@@ -53,3 +52,4 @@ ALTER TABLE `Machines` ADD FOREIGN KEY (`MaintenanceID`) REFERENCES `Maintenance
 ALTER TABLE `Machines` ADD FOREIGN KEY (`MarquesID`) REFERENCES `Marques` (`ID`);
 
 ALTER TABLE `Machines` ADD FOREIGN KEY (`LogicielsID`) REFERENCES `Logiciels` (`ID`);
+
